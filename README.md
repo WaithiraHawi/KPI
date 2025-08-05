@@ -2,6 +2,8 @@
 
 This project is a detailed exploratory and performance analysis of a call center's operations using a real-world dataset provided in `CallCenter.xlsx`. The goal is to calculate, visualize, and interpret key performance indicators (KPIs) to assess agent productivity, customer experience, and operational efficiency.
 
+<img width="1024" height="1536" alt="KPIs" src="https://github.com/user-attachments/assets/4511aa82-a4b9-4421-8bc6-57b477dc9383" />
+
 ## KPIs Analyzed
 
 The notebook calculates the following KPIs:
